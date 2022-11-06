@@ -1,0 +1,26 @@
+a:link {
+    color: red;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: green;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: hotpink;
+    text-decoration: none;
+  }
+  
+  a:active {
+    color: blue;
+    text-decoration: none;
+  }
+  
+  *
+  {
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+  

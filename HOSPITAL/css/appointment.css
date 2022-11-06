@@ -1,0 +1,12 @@
+select , input[type=text], input[type=email] , input[type=date] {
+    width: 100%;
+    padding: 16px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+    }
+
+    body
+    {
+        font-family: Arial, Helvetica, sans-serif;
+    }
